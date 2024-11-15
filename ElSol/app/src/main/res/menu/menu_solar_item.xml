@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Acción de copiar -->
+    <item
+        android:id="@+id/action_copy"
+        android:title="Copiar" />
+
+    <!-- Acción de eliminar -->
+    <item
+        android:id="@+id/action_delete"
+        android:title="Eliminar" />
+
+    <!-- Acción de renombrar -->
+    <item
+        android:id="@+id/action_rename"
+        android:title="Renombrar" />
+
+    <!-- Acción de cortar -->
+    <item
+        android:id="@+id/action_cut"
+        android:title="Cortar" />
+
+    <!-- Acción de mover -->
+    <item
+        android:id="@+id/action_move"
+        android:title="Mover" />
+
+</menu>
